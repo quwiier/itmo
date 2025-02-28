@@ -1,3 +1,3 @@
-[submodule "computional_mathematics"]
-	path = computional_mathematics
-	url = https://github.com/quwiier/computional_mathematics.git
+[submodule "4 вычмат/4_computional_mathematics"]
+	path = 4 вычмат/4_computional_mathematics
+	url = https://github.com/quwiier/4_computional_mathematics.git
